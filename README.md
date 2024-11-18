@@ -1,4 +1,6 @@
 #Dynamic Weather App
+
+
 A React-based weather application built with Vite that displays the current weather and 3-hourly forecasts using data from the OpenWeatherMap API. The app also provides additional information like wind speed, humidity, and a detailed weather description.
 #Features
 Displays current weather conditions in real-time.
